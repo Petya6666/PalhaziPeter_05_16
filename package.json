@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "axios": "^1.9.0",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  },
+  "name": "palhazipeter_05_16",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Petya6666/PalhaziPeter_05_16.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Petya6666/PalhaziPeter_05_16/issues"
+  },
+  "homepage": "https://github.com/Petya6666/PalhaziPeter_05_16#readme"
+}

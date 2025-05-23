@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Kiss József",
+    "email": "jozsef.kiss@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Nagy Anna",
+    "email": "anna.nagy@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Tóth Béla",
+    "email": "bela.toth@example.com"
+  }
+]
